@@ -2,7 +2,7 @@
 <h3 align="center">Automation Engineer by Profession, Developer by Passion</h3>
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=deekshith-07&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-07" />
+  <img src="https://komarev.com/ghpvc/?username=deekshith-poojary98&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-poojary98" />
 </p>
   
 <p align="center"> 
@@ -11,9 +11,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **C# Desktop applications**
+- 🔭 I’m currently working on **Python opensource libraries for Robotframework**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Advanced Python**
 
 - 📫 How to reach me **deekshithpoojary355@gmail.com**
 
@@ -100,7 +100,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deekshith-07" alt="deekshith-07" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deekshith-poojary98" alt="deekshith-poojary98" />
   </a>
 </p>
 
@@ -108,21 +108,21 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith-07&show_icons=true&locale=en&layout=compact" alt="deekshith-07" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekshith-poojary98&show_icons=true&locale=en&layout=compact" alt="deekshith-poojary98" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-07&show_icons=true&locale=en" alt="deekshith-07" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-poojary98&show_icons=true&locale=en" alt="deekshith-poojary98" />
 </p> 
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith-07&" alt="deekshith-07" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith-poojary98&" alt="deekshith-poojary98" />
 </p>
 
 <!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deekshith-07" alt="deekshith-07" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deekshith-poojary98" alt="deekshith-poojary98" />
   </a>
 </p>
 -->
