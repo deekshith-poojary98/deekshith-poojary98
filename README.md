@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Python opensource libraries for Robotframework**
+- 🔭 I’m currently working on **Python opensource libraries**
 
 - 🌱 I’m currently learning **Advanced Python**
 
