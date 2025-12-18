@@ -101,11 +101,11 @@
 
 <br>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=deekshith-poojary98" alt="deekshith-poojary98" />
   </a>
-</p>
+</p> -->
 
 
 
@@ -118,9 +118,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-poojary98&show_icons=true&locale=en" alt="deekshith-poojary98" />
 </p> 
 
-<p align="left">
+<!-- <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith-poojary98&" alt="deekshith-poojary98" />
-</p>
+</p> -->
 
 <!--
 <p align="center">
